@@ -12,4 +12,4 @@ Cómo está organizado? :
    Sección Visualización, es toda la configuración para realizar gráficos asociados a cada pregunta y se ejecuta por separado.
 
 Espero que aprecien este proyecto con la asesoría de @ElProfeAlejo y su gran iniciativa para la enseñanza de la ciencia de datos.
-![boxplot Barrios top 10](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/9282bd80-4b68-4976-8a0e-edcb0f751c9f)
+
