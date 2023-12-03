@@ -20,9 +20,15 @@ Espero que aprecien este proyecto con la asesoría de @ElProfeAlejo y su gran in
 #**Pregunta 1: ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?**
 ![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/8b61d9a5-0243-4163-83d6-70313ef4109b)
 
-
+El porcentaje de ganancia ha ido incrementando desde el 2019 hasta el 2022 para un aumento global de 73,4%, teniendo el año 2022 con el mejor rendimiento en cuanto a ganancias.
+Se observa un crecimiento interanual de 13,1% en el 2020, 29,0% en el 2021 y 18,9% en el 2022 infiriendo un efecto pospandemia en el uso de las compras online para los consumidores en el año 2021.
+Se recomendó al cliente mejorar la oferta en cantidad de productos , ya que la tendencia es al crecimiento sostenido de los pedidos y las ventas en el negocio global.
+Para determinar que productos podemos potenciar de acuerdo a sus ventas pasaremos a la siguiente pregunta.
 
 2. ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el período?
+
+![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/a7da7399-33f2-4d4c-ad7d-95f1aed81e29)
+
 
 3. Si separamos las ventas totales por año y por regiones ¿Qué insight podemos obtener de nuestras ventas?
 
