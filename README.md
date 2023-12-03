@@ -13,7 +13,7 @@ Cómo está organizado? :
 
 Espero que aprecien este proyecto con la asesoría de @ElProfeAlejo y su gran iniciativa para la enseñanza de la ciencia de datos.
 
-#Una cadena de Supermercados Online que opera en Brasil quiere obtener insights sobre la venta de sus productos. Para hacer esto, usted, como científico de datos, deberá analizar los pedidos de sus clientes y mostrar gráficamente las respuestas de las siguientes preguntas de negocio:
+#**Una cadena de Supermercados Online que opera en Brasil quiere obtener insights sobre la venta de sus productos. Para hacer esto, usted, como científico de datos, deberá analizar los pedidos de sus clientes y mostrar gráficamente las respuestas de las siguientes preguntas de negocio**:
 
 ### **Preguntas**
 
@@ -40,11 +40,30 @@ Si se realizan las mejoras sugeridas se puede incrementar significativamente el 
 Profundizando en los datos , determinaremos en que zonas se realizan las mayores ventas contestando lo siguiente:
 3. Si separamos las ventas totales por año y por regiones ¿Qué insight podemos obtener de nuestras ventas?
 
-
 ![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/27d8ac78-6ee0-4416-bf26-731b7bec5d2b)
+
+Desde el 2019 se puede ver que las regiones Sureste, Noreste y Centro-Oeste, concentran el 88,17% de las ventas. Esto principalmente a que concentran ciudades con mayor número de población lo que impacta directamente en el vólumen de pedidos y ventas. Dado este análisis podemos verificar cuales son los productos más pedidos en el último año de estudio(2022) en la región Sureste:
+
+![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/502cabec-0494-484b-b3a4-61733f43ca2d)
+
+En la gráfica se puede observar que los 3 productos más pedidos son bolsas de basura, lámparas LED y limpiador de inodoros, lo que refleja el impacto de esta región y su cantidad de pedidos con dos de los productos de mayor ganancia, y un producto que aplicando las recomendaciones , puede incrementar su margen de ganancia e impactando significativamente en un crecimiento de las ventas.
 
 4. ¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?
 
+![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/8c39379f-c8eb-4e58-a436-e2e72aa375fa)
+
+Es importante ver la logística de envío en una tienda que vende  productos online, y en la gráfica se observa que el método de envío para Brasil y las regiones de influencia, la entrega estandar es el método preferido de los consumidores con un 59.1% con respecto a los otros métodos. Aun asi, los segmentos B2B y B2C estan equilibrados para cada métodos en las zonas estudiadas.
+
+
 5. ¿Cuáles son las ventas totales por trimestre en el estado de São Paulo?
 
-6. ¿Existe otro insight que puedas proporcionar?
+![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/1432a594-191d-4ae0-8282-6d0c4815c8c2)
+
+Si vamos un poco mas profundo en el análisis y vemos solamente las ventas del estado  de São Paulo, podemos observar que las ventas aumentan considerablemente desde el 2019 hasta el 2022 , con un aumento diferencial en los últimos trimestres de de cada año influenciado por las fiestas navideñas y el aumento del consumo generalizado para esas fechas.
+
+6. Margen de ganancia por producto
+
+![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/071d6288-3b1c-470b-92ee-3c02ddcdd73d)
+
+Para saber cuales son los productos que tienen mejor rentabilidad , podemos verificar en la gráfica que Los productos con mayor porcentaje de ganancia son las camisetas, Jeans, papel higiénico y zapatillas.
+Esto quiere decir que aunque no generen las mayores ganancias, son productos rentables individualmente y que es productivo mantenerlos en el stock de la empresa para optimizar la estrategia y aumentar el volumen de ventas.
