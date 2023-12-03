@@ -67,5 +67,5 @@ Si vamos un poco mas profundo en el análisis y vemos solamente las ventas del e
 
 ![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/071d6288-3b1c-470b-92ee-3c02ddcdd73d)
 
-Para saber cuales son los productos que tienen mejor rentabilidad , podemos verificar en la gráfica que Los productos con mayor porcentaje de ganancia son las camisetas, Jeans, papel higiénico y zapatillas.
+Para saber cuáles son los productos que tienen mejor rentabilidad , podemos verificar en la gráfica que Los productos con mayor porcentaje de ganancia son las camisetas, Jeans, papel higiénico y zapatillas.
 Esto quiere decir que aunque no generen las mayores ganancias, son productos rentables individualmente y que es productivo mantenerlos en el stock de la empresa para optimizar la estrategia y aumentar el volumen de ventas.
