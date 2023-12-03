@@ -31,7 +31,8 @@ Para determinar que productos podemos potenciar de acuerdo a sus ventas pasaremo
 
 Se pudo determinar que existen 4 productos electrónicos que generan las mayores ganancias en el negocio(Lámparas LED,Laptops, Cámaras digitales y smartphones), seguido de los Jeans, y de productos de limpieza(Bolsas de basura y detergente para ropas).
 Estos productos aunque generan la mayor cantidad de ganancia , contrastan  con los productos más pedidos mostrados a continuación: 
-![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/f0496e4c-876d-4a73-9cc0-1678ba069adb)
+![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/db69cb5b-8fbd-416a-9254-2f5515a908f5)
+
 
 De los 10 productos con mayor cantidad de pedidos, sólo 5 estan dentro de los que generan mayor ganancias. 
 De este análisis hemos recomendado a nuestro cliente que puede potenciar con campaña de marketing, mejora en la calidad de materiales y ampliación en la variedad de los otros 5 productos mas pedidos que no generan el mismo porcentaje de ganancia(limpiador de inodoros, vestidos, papel higiénico, ambientador en spray y toallitas desinfectantes).
