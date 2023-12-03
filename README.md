@@ -29,8 +29,19 @@ Para determinar que productos podemos potenciar de acuerdo a sus ventas pasaremo
 
 ![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/a7da7399-33f2-4d4c-ad7d-95f1aed81e29)
 
+Se pudo determinar que existen 4 productos electrónicos que generan las mayores ganancias en el negocio(Lámparas LED,Laptops, Cámaras digitales y smartphones), seguido de los Jeans, y de productos de limpieza(Bolsas de basura y detergente para ropas).
+Estos productos aunque generan la mayor cantidad de ganancia , contrastan  con los productos más pedidos mostrados a continuación: 
+![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/f0496e4c-876d-4a73-9cc0-1678ba069adb)
 
+De los 10 productos con mayor cantidad de pedidos, sólo 5 estan dentro de los que generan mayor ganancias. 
+De este análisis hemos recomendado a nuestro cliente que puede potenciar con campaña de marketing, mejora en la calidad de materiales y ampliación en la variedad de los otros 5 productos mas pedidos que no generan el mismo porcentaje de ganancia(limpiador de inodoros, vestidos, papel higiénico, ambientador en spray y toallitas desinfectantes).
+Si se realizan las mejoras sugeridas se puede incrementar significativamente el procetaje de ganancias de estos productos debido al volumen de pedidos que se reciben.
+
+Profundizando en los datos , determinaremos en que zonas se realizan las mayores ventas contestando lo siguiente:
 3. Si separamos las ventas totales por año y por regiones ¿Qué insight podemos obtener de nuestras ventas?
+
+
+![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/27d8ac78-6ee0-4416-bf26-731b7bec5d2b)
 
 4. ¿Cuál es el método de envío más utilizado por los clientes del Supermercado? ¿Es proporcional para B2B y B2C?
 
