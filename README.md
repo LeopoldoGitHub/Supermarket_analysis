@@ -54,7 +54,7 @@ En la gráfica se puede observar que los 3 productos más pedidos son bolsas de 
 
 ![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/8c39379f-c8eb-4e58-a436-e2e72aa375fa)
 
-Es importante ver la logística de envío en una tienda que vende  productos online, y en la gráfica se observa que el método de envío para Brasil y las regiones de influencia, la entrega estandar es el método preferido de los consumidores con un 59.1% con respecto a los otros métodos. Aun asi, los segmentos B2B y B2C estan equilibrados para cada métodos en las zonas estudiadas.
+Es importante ver la logística de envío en una tienda que vende  productos online, y en la gráfica se observa que el método de envío para Brasil y las regiones de influencia, la entrega estandar es el método preferido de los consumidores con un 59.1% con respecto a los otros métodos. Aun asi, los segmentos B2B y B2C estan equilibrados para cada método en las zonas estudiadas.
 
 
 5. ¿Cuáles son las ventas totales por trimestre en el estado de São Paulo?
