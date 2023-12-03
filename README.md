@@ -27,8 +27,6 @@ Para determinar que productos podemos potenciar de acuerdo a sus ventas pasaremo
 
 2. ¿Cuáles son los 7 productos que más ganancias mostraron durante todo el período?
 
-![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/a7da7399-33f2-4d4c-ad7d-95f1aed81e29)
-
 Se pudo determinar que existen 4 productos electrónicos que generan las mayores ganancias en el negocio(Lámparas LED,Laptops, Cámaras digitales y smartphones), seguido de los Jeans, y de productos de limpieza(Bolsas de basura y detergente para ropas).
 Estos productos aunque generan la mayor cantidad de ganancia , contrastan  con los productos más pedidos mostrados a continuación: 
 ![image](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/db69cb5b-8fbd-416a-9254-2f5515a908f5)
