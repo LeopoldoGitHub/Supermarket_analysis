@@ -1,3 +1,7 @@
+
+![img3](https://github.com/LeopoldoGitHub/Supermarket_analysis/assets/122738840/92471f49-f569-4b4d-9a33-53e2706a2795)
+
+
 # Supermarket_analysis
 Este proyecto analiza las ventas de un supermercado, en Brasil, que ofrece ventas online. 
 Es un proyecto de estudio en mi formación de DataScience por lo cual está abierto a comentarios para mejorar tanto en limpieza de código cómo mejores prácticas en la resolución de algunas lineas de código.
